@@ -13,6 +13,3 @@ public class SubscriberEntity
     public string PartitionKey { get; set; } = "Subscriber";
 }
 
-//test
-
-//test
