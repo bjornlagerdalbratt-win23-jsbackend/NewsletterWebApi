@@ -12,3 +12,5 @@ public class SubscriberEntity
     public bool Podcasts { get; set; }
     public string PartitionKey { get; set; } = "Subscriber";
 }
+
+//test
