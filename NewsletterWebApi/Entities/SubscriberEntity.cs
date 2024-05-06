@@ -12,3 +12,12 @@ public class SubscriberEntity
     public bool Podcasts { get; set; }
     public string PartitionKey { get; set; } = "Subscriber";
 }
+
+//test
+
+//test
+
+
+
+
+//rebecca här har du lite ny kod
