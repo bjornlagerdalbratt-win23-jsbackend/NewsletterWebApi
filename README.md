@@ -1,1 +1,3 @@
 # NewsletterWebApi
+
+Använd NewsletterProvider istället.
